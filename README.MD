@@ -1,3 +1,3 @@
-# RWSS Custom Sidebar UI Component
+# RWSS Custom UI Components
 
-This is a custom sidebar component that is used within the RWSS site.
+This repo is a collection of custom UI components for https://ryanwhitespecialtyservices.org/.
